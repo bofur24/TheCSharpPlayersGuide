@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Level-3",
+    "\\Level-3\\HelloWorld"
   ],
+  "SelectedNode": "\\Level-3\\HelloWorld\\HelloWorld.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,13 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\bin\Debug\netcoreapp3.1\ConsolasandTelim.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\bin\Debug\netcoreapp3.1\ConsolasandTelim.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\bin\Debug\netcoreapp3.1\ConsolasandTelim.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\bin\Debug\netcoreapp3.1\ConsolasandTelim.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\bin\Debug\netcoreapp3.1\ConsolasandTelim.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\bin\Debug\netcoreapp3.1\ConsolasandTelim.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\obj\Debug\netcoreapp3.1\ConsolasandTelim.csprojAssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\obj\Debug\netcoreapp3.1\ConsolasandTelim.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\obj\Debug\netcoreapp3.1\ConsolasandTelim.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\obj\Debug\netcoreapp3.1\ConsolasandTelim.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\obj\Debug\netcoreapp3.1\ConsolasandTelim.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\obj\Debug\netcoreapp3.1\ConsolasandTelim.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-3\Challenge\ConsolasandTelim\obj\Debug\netcoreapp3.1\ConsolasandTelim.genruntimeconfig.cache
