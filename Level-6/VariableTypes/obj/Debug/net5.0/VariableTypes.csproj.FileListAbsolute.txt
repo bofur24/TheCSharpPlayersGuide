@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\bin\Debug\net5.0\VariableTypes.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\bin\Debug\net5.0\VariableTypes.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\bin\Debug\net5.0\VariableTypes.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\bin\Debug\net5.0\VariableTypes.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\bin\Debug\net5.0\VariableTypes.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\bin\Debug\net5.0\ref\VariableTypes.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\bin\Debug\net5.0\VariableTypes.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\ref\VariableTypes.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-6\VariableTypes\obj\Debug\net5.0\VariableTypes.genruntimeconfig.cache
