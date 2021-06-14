@@ -21,7 +21,7 @@ namespace TheThingNamer3000
             /* the number */
             string d = "3000";
 
-            Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!");
+            Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!"); // Output
         }
     }
 }
