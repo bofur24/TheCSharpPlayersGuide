@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\bin\Debug\net5.0\TheVariableShop.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\bin\Debug\net5.0\TheVariableShop.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\bin\Debug\net5.0\TheVariableShop.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\bin\Debug\net5.0\TheVariableShop.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\bin\Debug\net5.0\TheVariableShop.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\bin\Debug\net5.0\ref\TheVariableShop.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\bin\Debug\net5.0\TheVariableShop.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\ref\TheVariableShop.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShop\obj\Debug\net5.0\TheVariableShop.genruntimeconfig.cache
