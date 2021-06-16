@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\bin\Debug\net5.0\TheVariableShopReturns.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\bin\Debug\net5.0\TheVariableShopReturns.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\bin\Debug\net5.0\TheVariableShopReturns.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\bin\Debug\net5.0\TheVariableShopReturns.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\bin\Debug\net5.0\TheVariableShopReturns.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\bin\Debug\net5.0\ref\TheVariableShopReturns.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\bin\Debug\net5.0\TheVariableShopReturns.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\ref\TheVariableShopReturns.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheVariableShopReturns\obj\Debug\net5.0\TheVariableShopReturns.genruntimeconfig.cache
