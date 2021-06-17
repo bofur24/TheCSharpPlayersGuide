@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\bin\Debug\net5.0\ref\TheTriangleFarmer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\ref\TheTriangleFarmer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.genruntimeconfig.cache
