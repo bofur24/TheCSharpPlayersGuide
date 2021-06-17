@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\bin\Debug\net5.0\CompoundExpressions.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\bin\Debug\net5.0\CompoundExpressions.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\bin\Debug\net5.0\CompoundExpressions.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\bin\Debug\net5.0\CompoundExpressions.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\bin\Debug\net5.0\CompoundExpressions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\bin\Debug\net5.0\ref\CompoundExpressions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\bin\Debug\net5.0\CompoundExpressions.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\ref\CompoundExpressions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\CompoundExpressions\obj\Debug\net5.0\CompoundExpressions.genruntimeconfig.cache
