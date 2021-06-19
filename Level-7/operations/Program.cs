@@ -41,6 +41,10 @@ namespace operations
 
             Console.WriteLine("Money per person is " + moneyPerPerson);
 
+            int aa = 5;
+            int bb = 2;
+            int result1 = a / b;
+            Console.WriteLine(result1);
 
 
 
