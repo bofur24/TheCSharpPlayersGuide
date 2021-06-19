@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\bin\Debug\net5.0\TheFourSistersandTheDuckbear.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\bin\Debug\net5.0\TheFourSistersandTheDuckbear.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\bin\Debug\net5.0\TheFourSistersandTheDuckbear.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\bin\Debug\net5.0\TheFourSistersandTheDuckbear.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\bin\Debug\net5.0\TheFourSistersandTheDuckbear.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\bin\Debug\net5.0\ref\TheFourSistersandTheDuckbear.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\bin\Debug\net5.0\TheFourSistersandTheDuckbear.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\ref\TheFourSistersandTheDuckbear.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheFourSistersandTheDuckbear\obj\Debug\net5.0\TheFourSistersandTheDuckbear.genruntimeconfig.cache
