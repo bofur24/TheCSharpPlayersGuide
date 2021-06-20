@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\bin\Debug\net5.0\TheDominionofKings.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\bin\Debug\net5.0\TheDominionofKings.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\bin\Debug\net5.0\TheDominionofKings.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\bin\Debug\net5.0\TheDominionofKings.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\bin\Debug\net5.0\TheDominionofKings.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\bin\Debug\net5.0\ref\TheDominionofKings.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\bin\Debug\net5.0\TheDominionofKings.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\ref\TheDominionofKings.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDominionofKings\obj\Debug\net5.0\TheDominionofKings.genruntimeconfig.cache
