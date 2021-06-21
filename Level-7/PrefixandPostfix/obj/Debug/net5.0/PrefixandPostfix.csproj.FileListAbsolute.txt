@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\bin\Debug\net5.0\PrefixandPostfix.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\bin\Debug\net5.0\PrefixandPostfix.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\bin\Debug\net5.0\PrefixandPostfix.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\bin\Debug\net5.0\PrefixandPostfix.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\bin\Debug\net5.0\PrefixandPostfix.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\bin\Debug\net5.0\ref\PrefixandPostfix.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\bin\Debug\net5.0\PrefixandPostfix.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\ref\PrefixandPostfix.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\PrefixandPostfix\obj\Debug\net5.0\PrefixandPostfix.genruntimeconfig.cache
