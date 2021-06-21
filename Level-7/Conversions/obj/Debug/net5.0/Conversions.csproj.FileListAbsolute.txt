@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\bin\Debug\net5.0\Conversions.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\bin\Debug\net5.0\Conversions.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\bin\Debug\net5.0\Conversions.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\bin\Debug\net5.0\Conversions.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\bin\Debug\net5.0\Conversions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\bin\Debug\net5.0\ref\Conversions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\bin\Debug\net5.0\Conversions.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\ref\Conversions.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.genruntimeconfig.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-7\Conversions\obj\Debug\net5.0\Conversions.csproj.AssemblyReference.cache
