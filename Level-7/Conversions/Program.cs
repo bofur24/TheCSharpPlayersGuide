@@ -27,6 +27,15 @@ namespace Conversions
 
             total = (short)(a + b); // keeping it casted as a short
             Console.WriteLine(total);
+
+            int amountDone = 20;
+            int amountToDo = 100;
+
+            // double fractionDone = amountDone / amountToDo; result is 0
+            double fractionDone = (double)amountDone / amountToDo; // Result as a floating point number
+            Console.WriteLine(fractionDone);
+
+
         }
     }
 }

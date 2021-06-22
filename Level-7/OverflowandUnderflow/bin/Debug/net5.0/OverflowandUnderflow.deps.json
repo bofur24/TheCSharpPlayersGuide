@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OverflowandUnderflow/1.0.0": {
+        "runtime": {
+          "OverflowandUnderflow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverflowandUnderflow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
