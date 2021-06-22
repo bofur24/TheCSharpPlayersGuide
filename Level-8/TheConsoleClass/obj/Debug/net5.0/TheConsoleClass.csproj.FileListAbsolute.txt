@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\bin\Debug\net5.0\TheConsoleClass.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\bin\Debug\net5.0\TheConsoleClass.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\bin\Debug\net5.0\TheConsoleClass.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\bin\Debug\net5.0\TheConsoleClass.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\bin\Debug\net5.0\TheConsoleClass.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\bin\Debug\net5.0\ref\TheConsoleClass.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\bin\Debug\net5.0\TheConsoleClass.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\ref\TheConsoleClass.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\TheConsoleClass\obj\Debug\net5.0\TheConsoleClass.genruntimeconfig.cache
