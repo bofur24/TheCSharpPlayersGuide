@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\bin\Debug\net5.0\StringSkills.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\bin\Debug\net5.0\StringSkills.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\bin\Debug\net5.0\StringSkills.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\bin\Debug\net5.0\StringSkills.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\bin\Debug\net5.0\StringSkills.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\bin\Debug\net5.0\ref\StringSkills.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\bin\Debug\net5.0\StringSkills.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\ref\StringSkills.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.genruntimeconfig.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-8\StringSkills\obj\Debug\net5.0\StringSkills.csproj.AssemblyReference.cache

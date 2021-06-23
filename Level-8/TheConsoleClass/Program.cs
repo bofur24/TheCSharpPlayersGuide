@@ -6,6 +6,11 @@ namespace TheConsoleClass
     {
         static void Main(string[] args)
         {
+            Console.Beep();
+            Console.Beep(440, 1000);
+            Console.Beep(550, 1000);
+            Console.Title = "The Console Class";
+            Console.Clear();
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.Black;
 
