@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\bin\Debug\net5.0\TheDefenseofCosolas.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\bin\Debug\net5.0\TheDefenseofCosolas.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\bin\Debug\net5.0\TheDefenseofCosolas.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\bin\Debug\net5.0\TheDefenseofCosolas.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\bin\Debug\net5.0\TheDefenseofCosolas.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\bin\Debug\net5.0\ref\TheDefenseofCosolas.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\bin\Debug\net5.0\TheDefenseofCosolas.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\ref\TheDefenseofCosolas.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheDefenseofCosolas\obj\Debug\net5.0\TheDefenseofCosolas.genruntimeconfig.cache
