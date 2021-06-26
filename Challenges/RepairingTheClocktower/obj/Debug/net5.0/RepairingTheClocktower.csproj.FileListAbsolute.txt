@@ -1,0 +1,15 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\bin\Debug\net5.0\RepairingTheClocktower.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\bin\Debug\net5.0\RepairingTheClocktower.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\bin\Debug\net5.0\RepairingTheClocktower.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\bin\Debug\net5.0\RepairingTheClocktower.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\bin\Debug\net5.0\RepairingTheClocktower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\bin\Debug\net5.0\ref\RepairingTheClocktower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\bin\Debug\net5.0\RepairingTheClocktower.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\RepairingTheClocktower.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\RepairingTheClocktower.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\RepairingTheClocktower.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\RepairingTheClocktower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\ref\RepairingTheClocktower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\RepairingTheClocktower.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\RepairingTheClocktower\obj\Debug\net5.0\RepairingTheClocktower.genruntimeconfig.cache
