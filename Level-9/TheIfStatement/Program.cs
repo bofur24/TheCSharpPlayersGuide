@@ -38,7 +38,7 @@ namespace TheIfStatement
                 Console.WriteLine("Try again.");
             }
             */
-            //Relational Operators
+            /*Relational Operators
             if (score >= 90)
             {
                 Console.WriteLine("A");
@@ -83,13 +83,67 @@ namespace TheIfStatement
             {
                 Console.WriteLine("Try again!!");
             }
-
+            */
             /*
              Shorter way is to run it this way
             bool levelComplete = score >= pointsNeededToPass;
              
              */
+            /* Logical Operators
+            int pointsNeededToPass = 100;
+            bool levelComplete = score >= pointsNeededToPass;
 
+            if (!levelComplete)
+            {
+                Console.WriteLine("This level is not over yet!");
+            }
+
+            int shields = 50;
+            int armor = 20;
+
+            if (shields <= 0 && armor <= 0)
+            {
+                Console.WriteLine("You're dead");
+            }
+
+            if (shields > 0 || armor > 0)
+            {
+                Console.WriteLine("You're still alive! Keep going!");
+            }
+
+            bool stillHasShields = shields > 0;
+            bool stillHasArmor = armor > 0;
+
+            if (stillHasShields || stillHasArmor)
+            {
+                Console.WriteLine("You're still alive! Keep going!");
+            }
+            */
+            /* Nesting IF Statements
+
+            int shields = 50;
+            int armor = 20;
+
+            if (shields <= 0)
+            {
+                if (armor <= 0)
+                {
+                    Console.WriteLine("Shields and armor at Zero! You're dead!");
+                }
+                else
+                {
+                    Console.WriteLine("Shields are gone, but armor is keeping you alive!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("You still have shields left. The world is safe.");
+            }
+            */
+            //The Conditional Operator
+
+            string textToDisplay = score > 70 ? "You passed!" : "You failed.";
+            Console.WriteLine(textToDisplay);
         }
     }
 }
