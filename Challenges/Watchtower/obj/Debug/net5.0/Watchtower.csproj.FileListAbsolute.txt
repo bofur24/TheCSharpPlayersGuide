@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\bin\Debug\net5.0\Watchtower.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\bin\Debug\net5.0\Watchtower.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\bin\Debug\net5.0\Watchtower.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\bin\Debug\net5.0\Watchtower.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\bin\Debug\net5.0\Watchtower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\bin\Debug\net5.0\ref\Watchtower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\bin\Debug\net5.0\Watchtower.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\ref\Watchtower.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\Watchtower\obj\Debug\net5.0\Watchtower.genruntimeconfig.cache
