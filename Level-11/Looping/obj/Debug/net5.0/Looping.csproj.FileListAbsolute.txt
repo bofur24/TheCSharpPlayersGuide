@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\bin\Debug\net5.0\Looping.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\bin\Debug\net5.0\Looping.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\bin\Debug\net5.0\Looping.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\bin\Debug\net5.0\Looping.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\bin\Debug\net5.0\Looping.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\bin\Debug\net5.0\ref\Looping.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\bin\Debug\net5.0\Looping.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\ref\Looping.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-11\Looping\obj\Debug\net5.0\Looping.genruntimeconfig.cache
