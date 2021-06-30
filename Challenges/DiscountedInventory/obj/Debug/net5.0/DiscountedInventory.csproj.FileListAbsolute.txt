@@ -1,0 +1,15 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\bin\Debug\net5.0\DiscountedInventory.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\bin\Debug\net5.0\DiscountedInventory.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\bin\Debug\net5.0\DiscountedInventory.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\bin\Debug\net5.0\DiscountedInventory.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\bin\Debug\net5.0\DiscountedInventory.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\bin\Debug\net5.0\ref\DiscountedInventory.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\bin\Debug\net5.0\DiscountedInventory.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\DiscountedInventory.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\ref\DiscountedInventory.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\DiscountedInventory.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\DiscountedInventory\obj\Debug\net5.0\DiscountedInventory.genruntimeconfig.cache
