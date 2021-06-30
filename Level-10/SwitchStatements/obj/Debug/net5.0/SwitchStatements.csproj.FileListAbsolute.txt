@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\bin\Debug\net5.0\SwitchStatements.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\bin\Debug\net5.0\SwitchStatements.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\bin\Debug\net5.0\SwitchStatements.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\bin\Debug\net5.0\ref\SwitchStatements.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\bin\Debug\net5.0\SwitchStatements.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\ref\SwitchStatements.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-10\SwitchStatements\obj\Debug\net5.0\SwitchStatements.genruntimeconfig.cache
