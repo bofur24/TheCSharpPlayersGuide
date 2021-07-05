@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\bin\Debug\net5.0\TheReplicatorofDTo.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\bin\Debug\net5.0\TheReplicatorofDTo.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\bin\Debug\net5.0\TheReplicatorofDTo.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\bin\Debug\net5.0\TheReplicatorofDTo.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\bin\Debug\net5.0\TheReplicatorofDTo.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\bin\Debug\net5.0\ref\TheReplicatorofDTo.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\bin\Debug\net5.0\TheReplicatorofDTo.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\ref\TheReplicatorofDTo.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheReplicatorofDTo\obj\Debug\net5.0\TheReplicatorofDTo.genruntimeconfig.cache
