@@ -80,10 +80,30 @@ namespace Arrays
             {
                 Console.WriteLine(number);
             }
-            
-            
+            Console.WriteLine();
+            Console.WriteLine("Multi-Dimensional Arrays");
+
+            int[][] matrix = new int[3][];
+            matrix[0] = new int[] { 1, 2 };
+            matrix[1] = new int[] { 3, 4 };
+            matrix[2] = new int[] { 5, 6 };
+
+            Console.WriteLine(matrix[0][1]); // Should be 2
+
+            Console.WriteLine();
+            Console.WriteLine("Loop through all elements in a multi-dimensional array");
 
 
+            int[,] matrix1 = new int[4, 4] { { 1, 2, 3, 4 }, { 5, 6, 7, 8, }, {9, 10, 11, 12 }, {13, 14, 15, 16 } };
+
+            for (int row = 0; row < matrix1.GetLength(0); row++)
+            {
+                for (int column = 0; column < matrix1.GetLength(1); column++)
+                {
+                    Console.WriteLine(matrix1[row, column] + " ");
+                }
+                Console.WriteLine();
+            }
 
         }
     }
