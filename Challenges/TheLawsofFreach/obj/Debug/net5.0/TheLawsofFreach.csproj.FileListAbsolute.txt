@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\bin\Debug\net5.0\TheLawsofFreach.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\bin\Debug\net5.0\TheLawsofFreach.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\bin\Debug\net5.0\TheLawsofFreach.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\bin\Debug\net5.0\TheLawsofFreach.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\bin\Debug\net5.0\TheLawsofFreach.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\bin\Debug\net5.0\ref\TheLawsofFreach.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\bin\Debug\net5.0\TheLawsofFreach.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\ref\TheLawsofFreach.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TheLawsofFreach\obj\Debug\net5.0\TheLawsofFreach.genruntimeconfig.cache
