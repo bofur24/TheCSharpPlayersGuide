@@ -72,6 +72,19 @@ namespace Arrays
             }
             float average = (float)total / array.Length;
             Console.WriteLine($"The average is {average}");
+
+            //ForEachLoop
+            int[] numberss = new int[5] { 7, 10, 8, 5, 2 };
+            Console.WriteLine("Items the For Each Loop will display");
+            foreach (int number in numberss)
+            {
+                Console.WriteLine(number);
+            }
+            
+            
+
+
+
         }
     }
 }
