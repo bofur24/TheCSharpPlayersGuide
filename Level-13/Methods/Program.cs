@@ -34,6 +34,7 @@ namespace Methods
             //Calling the Method with a Parameter
             Count(25);
 
+
         }
 
     }
