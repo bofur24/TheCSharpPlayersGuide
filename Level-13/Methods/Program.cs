@@ -23,6 +23,11 @@ namespace Methods
             CountToTen();
             Console.WriteLine("Method with parameters called Count");
             // Method with parameters
+
+            /// <summary>
+            /// Counts to the given number, starting at 1 and including the nubmer provided.
+            /// </summary>
+            /// <param name="numberToCountTo">The number to count to.</param>
             void Count(int numberToCount)
             {
                 for (int index = 1; index <= numberToCount; index++)
@@ -77,6 +82,19 @@ namespace Methods
             }
 
             GetUserName();
+
+            Console.WriteLine("Simple Methods with Expressions");
+            int DoubleAndAddOne(int value)
+            {
+                return value * 2 + 1;
+            }
+
+            Console.WriteLine(DoubleAndAddOne(5));
+
+            //Simple Method is int DoubleAndAddOne(int value) => vlaue * 2 + 1;
+
+
+
         }
     }
 }
