@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\bin\Debug\net5.0\TakingANumbrer.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\bin\Debug\net5.0\TakingANumbrer.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\bin\Debug\net5.0\TakingANumbrer.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\bin\Debug\net5.0\TakingANumbrer.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\bin\Debug\net5.0\TakingANumbrer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\bin\Debug\net5.0\ref\TakingANumbrer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\bin\Debug\net5.0\TakingANumbrer.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\ref\TakingANumbrer.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Challenges\TakingANumbrer\obj\Debug\net5.0\TakingANumbrer.genruntimeconfig.cache
