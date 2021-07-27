@@ -1,0 +1,16 @@
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\bin\Debug\net5.0\Enumerations.exe
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\bin\Debug\net5.0\Enumerations.deps.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\bin\Debug\net5.0\Enumerations.runtimeconfig.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\bin\Debug\net5.0\Enumerations.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\bin\Debug\net5.0\Enumerations.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\bin\Debug\net5.0\ref\Enumerations.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\bin\Debug\net5.0\Enumerations.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.csproj.AssemblyReference.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.AssemblyInfo.cs
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\ref\Enumerations.dll
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.pdb
+C:\Users\light\OneDrive\Documents\Visual Studio 2019\CSharp\Level-16\Enumerations\obj\Debug\net5.0\Enumerations.genruntimeconfig.cache
